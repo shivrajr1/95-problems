@@ -1,5 +1,5 @@
 # 95-problems
 
 
-
-https://leetcode.com/problems/kth-largest-element-in-an-array/
+// using sorting kth smallest and largest
+1. https://leetcode.com/problems/kth-largest-element-in-an-array/
