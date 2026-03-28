@@ -7,3 +7,4 @@
 3. https://www.geeksforgeeks.org/problems/reverse-an-array/1
 4. https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
 5. https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1
+6. https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1
