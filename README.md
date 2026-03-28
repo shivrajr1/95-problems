@@ -8,3 +8,4 @@
 4. https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
 5. https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1
 6. https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1
+7. https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
