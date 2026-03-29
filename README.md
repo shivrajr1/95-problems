@@ -1,6 +1,6 @@
 # 95-problems
 
-
+#Section 1: Arrays
 // using sorting kth smallest and largest
 1. https://leetcode.com/problems/kth-largest-element-in-an-array/
 2. https://www.geeksforgeeks.org/problems/second-largest3735/1?page=1&sortBy=submissions
@@ -19,3 +19,7 @@
 15. https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1
 16. https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1
 17. https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1
+18. https://www.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1
+19. https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1
+
+#Section 2: Strings
