@@ -14,3 +14,6 @@
 10. https://www.geeksforgeeks.org/problems/count-odd-even/1
 11. https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
 12. https://www.geeksforgeeks.org/problems/key-pair5616/1
+13. https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
+14. https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
+15. https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1
