@@ -32,3 +32,7 @@
 25. https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1
 26. https://www.geeksforgeeks.org/problems/anagram-1587115620/1
 27. https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1
+28. https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1&selectedLang=python3
+29. https://www.geeksforgeeks.org/problems/valid-compressed-string--170647/1
+30. https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/0
+31. https://www.geeksforgeeks.org/problems/valid-string/1
