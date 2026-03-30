@@ -36,3 +36,9 @@
 29. https://www.geeksforgeeks.org/problems/valid-compressed-string--170647/1
 30. https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/0
 31. https://www.geeksforgeeks.org/problems/valid-string/1
+32. https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1
+
+
+Section 3: Set (HashSet)
+
+33.https://leetcode.com/problems/remove-duplicates-from-sorted-array/
