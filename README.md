@@ -29,3 +29,6 @@
 22. https://www.geeksforgeeks.org/problems/consonants-and-vowels-check-java/1
 23. https://www.geeksforgeeks.org/problems/remove-spaces0128/1
 24. https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1
+25. https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1
+26. https://www.geeksforgeeks.org/problems/anagram-1587115620/1
+27. https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1
