@@ -23,6 +23,9 @@
 19. https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1
 
 #Section 2: Strings
+
 20. https://www.geeksforgeeks.org/problems/reverse-a-string/1
 21. https://www.geeksforgeeks.org/problems/palindrome-string0817/1
 22. https://www.geeksforgeeks.org/problems/consonants-and-vowels-check-java/1
+23. https://www.geeksforgeeks.org/problems/remove-spaces0128/1
+24. https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1
