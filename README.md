@@ -41,4 +41,8 @@
 
 Section 3: Set (HashSet)
 
-33.https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+33. https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+34. https://www.geeksforgeeks.org/problems/find-unique-element2632/1
+35. https://www.geeksforgeeks.org/problems/first-repeating-element4018/1
+36. https://www.geeksforgeeks.org/problems/non-repeating-element3958/1
+37. https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
