@@ -46,3 +46,11 @@ Section 3: Set (HashSet)
 35. https://www.geeksforgeeks.org/problems/first-repeating-element4018/1
 36. https://www.geeksforgeeks.org/problems/non-repeating-element3958/1
 37. https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
+38. https://www.geeksforgeeks.org/problems/kth-distance3757/1
+
+
+ Section 4: Map (HashMap)
+
+ 39. https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1
+ 40. https://www.geeksforgeeks.org/problems/difference-between-highest-and-lowest-occurrence4613/1
+ 41. https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
