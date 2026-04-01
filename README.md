@@ -54,3 +54,11 @@ Section 3: Set (HashSet)
  39. https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1
  40. https://www.geeksforgeeks.org/problems/difference-between-highest-and-lowest-occurrence4613/1
  41. https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+ 42. https://www.geeksforgeeks.org/problems/subarray-range-with-given-sum2804/1
+
+
+Section 5: Basic Recursion
+
+43. https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1&selectedLang=python3
+44. https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1
+45. https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1
