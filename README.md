@@ -62,3 +62,9 @@ Section 5: Basic Recursion
 43. https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1&selectedLang=python3
 44. https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1
 45. https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1
+46. https://www.geeksforgeeks.org/problems/reverse-a-string/1
+47. https://www.geeksforgeeks.org/problems/count-digits-1606889545/1
+48. https://www.geeksforgeeks.org/problems/sum-of-series2811/1&selectedLang=javascript
+49. https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
+50. https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
+51. https://leetcode.com/problems/binary-search/description/
