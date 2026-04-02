@@ -68,3 +68,4 @@ Section 5: Basic Recursion
 49. https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
 50. https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
 51. https://leetcode.com/problems/binary-search/description/
+52. https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1
